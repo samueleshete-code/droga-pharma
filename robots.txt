@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /uploads/cvs/
+Sitemap: http://localhost/droga-pharma/sitemap.xml
